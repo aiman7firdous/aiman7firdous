@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
+![MasterHead](https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Aiman Firdous</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
